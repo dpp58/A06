@@ -1,5 +1,4 @@
 # A06
-# A06
 <!DOCTTYPE html>
 <html>
     <head>
